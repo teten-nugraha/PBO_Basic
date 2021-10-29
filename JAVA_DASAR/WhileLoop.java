@@ -1,4 +1,4 @@
-package JAVA_DASAR.array;
+package JAVA_DASAR;
 
 public class WhileLoop {
   public static void main(String[]args) {
